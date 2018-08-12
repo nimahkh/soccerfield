@@ -1,10 +1,16 @@
 SoccerField is a ReactJs Component demo , for soccer line up with a json clean structure .
+### Dependencies
+1. Material ui
+2. bootstrap-v4-rtl (Rtl bootstrap , you can change it optional )
+3. react-animated-css
+4. react-progressive-image
+
 ## HOW TO USE?
 for using this component , first clone it <br/>
-1-`git clone https://github.com/nimahkh/soccerfield.git`<br/>
-2-go to your cloned folder and do ```npm i ``` to install dependencies . <br/>
-3-then type ```npm run start``` and go to localhost:3000 to watch you line up .<br/>
-4-you have to send json structure like below , and get, with fetch or axios.
+1.`git clone https://github.com/nimahkh/soccerfield.git`<br/>
+2.go to your cloned folder and do ```npm i ``` to install dependencies . <br/>
+3.then type ```npm run start``` and go to localhost:3000 to watch you line up .<br/>
+4.you have to send json structure like below , and get, with fetch or axios.
 ```
 {"result":
                 {
