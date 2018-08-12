@@ -1,0 +1,22 @@
+{
+  "name": "soccerfield",
+  "version": "0.1.0",
+  "author":"Nima habibkhoda (nima.2004hkh@gmail.com)",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.2.0",
+    "@material-ui/icons": "^1.1.0",
+    "bootstrap-v4-rtl": "^4.1.1-0",
+    "react": "^16.4.2",
+    "react-animated-css": "^1.0.4",
+    "react-dom": "^16.4.2",
+    "react-progressive-image": "^0.3.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
