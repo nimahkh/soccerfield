@@ -20,6 +20,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-dev-utils": ">=5.0.2"
+    "react-dev-utils": ">=5.0.2",
+    "webpack-dev-server": ">=3.1.11"
   }
 }
